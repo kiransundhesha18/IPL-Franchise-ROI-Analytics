@@ -27,7 +27,6 @@ architecture relies on context-specific DAX (Data Analysis Expressions) measures
 the Power BI semantic model.
 By dividing monetary spend by distinct performance units, the model creates an equitable baseline to
 compare players across different price tiers and franchise rosters.
-Portfolio Documentation Page 1 of 2
 Custom DAX Engineering
 Cost_Per_Run_₹ : Evaluates Batters and All-rounders by dividing their total auction price by
 total runs scored. Identifies the true cost of batting output.
@@ -53,4 +52,3 @@ Platform: Microsoft Power BI Desktop
 Data Engineering & ETL: Power Query (Data type validation, handling nulls, formatting)
 Calculations: DAX (Data Analysis Expressions) for custom ROI metrics
 UI/UX Design: Dark-theme executive layout, dynamic conditional filtering, classic KPI scorecards
-Portfolio Documentation Page 2 of 2
